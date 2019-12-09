@@ -1,0 +1,42 @@
+body,h1,h2,h3,h4,h5,h6{
+	font-family: 'Times New Roman', Times, serif;
+}
+
+body,html{
+	height: 100%;
+	line-height: 1.8;
+}
+
+/*full height image header*/
+.bgimg-1{
+	background-position: center;
+	background-size: cover;
+	background-image: url("../img/11.svg");
+	min-height: 100%;
+}
+
+.bar .button{
+	padding: 16px;
+	
+}
+
+
+
+	
+
+	
+
+
+
+	
+
+	
+	
+
+	
+
+	
+	
+
+	
+	
